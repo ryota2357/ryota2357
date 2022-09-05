@@ -1,21 +1,13 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota2357&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryota2357&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+# Hi 👋, I'm ryota2357
+- 🔭 I’m a student at **The University of Electro-Communications**
+- 🌱 I’m currently learning **Neovim, Rust, Computer Sience, etc.**
+- 📫 How to reach me: [@95s7k84695a](https://twitter.com/95s7k84695a)
+- 👨‍💻 All of my projects are available at [https://ryota2357.com/works](https://ryota2357.com/works)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryota2357&theme=onedark&column=8
-)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-**ryota2357/ryota2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Here are some ideas to get you started:
+<p><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryota2357&show_icons=true&locale=en&layout=compact" alt="ryota2357" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=ryota2357&show_icons=true&locale=en" alt="ryota2357" /></p>
